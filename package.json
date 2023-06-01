@@ -1,0 +1,12 @@
+{
+  "name": "typescript_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch" 
+  },
+  "keywords": [],
+  "author": "Maras",
+  "license": "ISC"
+}

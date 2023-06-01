@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",//we take ts code from src folder
+        "outDir": "./dist",//and we put translated code to js in dist folder
+        "target": "ES2015",//we can additionally compile our code to version which is supported by older browsers
+        "module": "ES2015"
+    }
+}
